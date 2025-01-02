@@ -1,7 +1,7 @@
-https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=java
+> https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=java
 
-HashSet을 쓰면 중복이 제거된다고 하여 사용
-푼 후에 stream을 사용하여 푸는 방법도 검색
+> HashSet을 쓰면 중복이 제거된다고 하여 사용
+> <br>푼 후에 stream을 사용하여 푸는 방법도 검색
 
 ```java
 import java.util.*;
