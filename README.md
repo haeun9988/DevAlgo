@@ -6,9 +6,9 @@
 <br />
 
 ## 👩‍👦‍👦 **스터디 멤버**
-| [@j1suk1m](https://github.com/j1suk1m) | [@jin214930](https://github.com/jin214930) | [@xaxeon](https://github.com/xaxeon) | [@joungGo](https://github.com/joungGo) | [@Jinyoung0718](https://github.com/Jinyoung0718) |
-|:-------------------------------------:|:-----------------------------------------:|:-----------------------------------:|:------------------------------------:|:--------------------------------------:|
-| Java                                  | Java                                      | Java                                | Java                                 | Java                                   |
+| [@j1suk1m](https://github.com/j1suk1m) | [@jin214930](https://github.com/jin214930) | [@xaxeon](https://github.com/xaxeon) | [@joungGo](https://github.com/joungGo) | [@Jinyoung0718](https://github.com/Jinyoung0718) | [@yunjuKimm](https://github.com/yunjuKimm) |
+|:-------------------------------------:|:-----------------------------------------:|:-----------------------------------:|:------------------------------------:|:--------------------------------------:|:--------------------------------------:|
+| Java                                  | Java                                      | Java                                | Java                                 | Java                                   | Java                                   |
 | [@sameom1048](https://github.com/sameom1048) | [@linedj](https://github.com/linedj)     | [@haeun9988](https://github.com/haeun9988) | [@jsc5023](https://github.com/jsc5023) | [@cjw0324](https://github.com/cjw0324) |
 | Java                                  | Java                                      | Java                                | Java                                 | Java                                   |
 
