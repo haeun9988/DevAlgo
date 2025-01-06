@@ -1,4 +1,4 @@
-> https://school.programmers.co.kr/learn/courses/30/lessons/133025
+> https://school.programmers.co.kr/learn/courses/30/lessons/131120
 >
 > 날짜 형식을 바꾸기 위해 DATE_FORMAT() 사용
 ```sql
