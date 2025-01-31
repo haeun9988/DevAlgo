@@ -6,51 +6,17 @@
 <br />
 
 ## 👩‍👦‍👦 **스터디 멤버**
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/yunjuKimm"><b>@yunjuKimm</b></td>
-    <td align="center"><a href="https://github.com/j1suk1m"><b>@j1suk1m</b></td>
-    <td align="center"><a href="https://github.com/jin214930"><b>@jin214930</b></td>
-    <td align="center"><a href="https://github.com/huipadyam"><b>@huipadyam</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/joungGo"><b>@joungGo</b></td>
-  </tr>
-  <tr> 
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-  </tr> 
-  <tr>
-    <td align="center"><a href="https://github.com/Jinyoung0718"><b>@Jinyoung0718</b></td>
-    <td align="center"><a href="https://github.com/sameom1048"><b>@sameom1048</b></td>
-    <td align="center"><a href="https://github.com/Lined1"><b>@Lined1</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/jsc5023"><b>@jsc5023</b></td>
-    <td align="center"><a href="https://github.com/cjw0324"><b>@cjw0324</b></td>
-  </tr>
-  <tr> 
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-    <td align="center">Java</td>
-  </tr> 
-  <tr>
-    <td align="center"><a href="https://github.com/haeun9988"><b>@haeun9988</b></td>
-  </tr>
-  <tr>
-   <td align="center">Java</td>
-  </tr>
-</table>
+| [@j1suk1m](https://github.com/j1suk1m) | [@jin214930](https://github.com/jin214930) | [@xaxeon](https://github.com/xaxeon) | [@joungGo](https://github.com/joungGo) | [@Jinyoung0718](https://github.com/Jinyoung0718) | [@yunjuKimm](https://github.com/yunjuKimm) |
+|:-------------------------------------:|:-----------------------------------------:|:-----------------------------------:|:------------------------------------:|:--------------------------------------:|:--------------------------------------:|
+| Java                                  | Java                                      | Java                                | Java                                 | Java                                   | Java                                   |
+| [@sameom1048](https://github.com/sameom1048) | [@linedj](https://github.com/linedj)     | [@haeun9988](https://github.com/haeun9988) | [@jsc5023](https://github.com/jsc5023) | [@cjw0324](https://github.com/cjw0324) |
+| Java                                  | Java                                      | Java                                | Java                                 | Java                                   |
+
 
 
 <br />
 
-### :pencil: Rule    
+## ✏️ Rule    
 - 일주일 동안 공지된 문제 성실히 풀기
 - 문제는 [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit),
   [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)을 사용한다. 
@@ -60,15 +26,36 @@
 
 ## ✅ 참여 방법
 ### 🚩 스터디를 시작할 때
-1. 이 저장소를 `fork` 후 `clone`한다. 
-2. 각자 이름으로 디렉터리를 만든다.
+1. 이 저장소를 clone한다.
 ### 🏃 매주 할 일
-1. 개인 디렉터리에 각 주차 디렉터리를 만든다. (ex. 1주차, 2주차 ...)
-2. 해당 주차 폴더에 자신의 소스코드.md를 업로드 한다. 
-3. 이때 `commit 규칙`을 지키도록한다!
-4. 원본 저장소로 `Pull Request`를 한다. 
-5. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
-6. ***주의!! 개인 폴더 내부만 수정해주세요!!***
+1. 로컬 저장소를 최신 상태로 업데이트한다.
+   <br /> `git fetch origin`
+   <br /> `git pull origin main`
+2. main 브랜치로 checkout한다.
+   <br /> `git checkout main`
+3. 새로운 브랜치를 생성한다.
+   <br /> 브랜치 이름 형식: {본인 이름)-{세트 이름}
+   <br /> `git checkout -b "김하연-스택큐"`
+4. 이번 주 디렉토리를 생성한다.
+   <br /> 디렉토리 이름: 1주차, 2주차 ...
+5. 이번 주 문제를 푼다.
+6. 풀이한 내용을 소스코드 파일로 작성하여 이번 주 디렉토리에 추가 후 커밋한다.
+   <br /> 커밋 메세지는 `commit 규칙` 참고
+   <br /> `git add .`
+   <br /> `git commit -m "[김하연] 해시_폰켓몬_level1"`
+7. 모두 커밋했다면 원격 저장소에 내 브랜치를 푸시한다.
+   <br /> `git push origin "김하연-스택큐"`
+8. 원격 저장소에서 내 브랜치로 Pull Request를 생성한다.
+   <br /> PR 제목은 `PR 규칙` 참고
+9. 다른 사람들의 PR을 보고 자유롭게 코드 리뷰를 한다.
+
+***주의!! 개인 폴더 내부만 수정해주세요!!***
+
+<br />
+
+## ✅ branch 규칙
+- branch 이름: {본인 이름} - {세트 이름}
+  <br /> `김하연-스택큐`
 
 <br />
 
@@ -103,10 +90,10 @@
 
 <br />
 
-## ✅How to Code Review   
+## ✅ Code Review 방법   
 ### 1. Commit History로 리뷰하는 방법 
 1. 커밋 기록 조회
-2. 특정 커밋 클릭
+2. 원하는 커밋 클릭
 3. 맨 아래 comment 달기   
 
 ### 2. Pull Request로 리뷰하는 방법   
